@@ -1,12 +1,12 @@
 var hello = "Hello";
 
-console. log(heLto) ;
+console. log(hello) ;
 hello = "Hello World";
-console. log(helto) ;
+console. log(hello) ;
 
 if (true) {
    let world =  "Hello World";
-   console. Log(wortd) ;
+   console. Log(world) ;
 }
 
 const fixval = "Fix Value";
