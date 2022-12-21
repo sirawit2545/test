@@ -8,6 +8,11 @@ if (true) {
    let world =  "Hello World";
    console. Log(world) ;
 }
+ 
+//console. log(world) ;
 
 const fixval = "Fix Value";
-console. Logi (fixval);
+console. Log (fixval);
+
+//fixvar = "tes assigne value to const"
+

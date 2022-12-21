@@ -3,7 +3,11 @@ const place = "World";
 
 console. log('Hello, World!');
 
-console. log('Hello, 85!', place);
+console. log('Hello, %s!', place);
 
 console. log('${message}, ${place}!');
+
+
+ 
+
 
